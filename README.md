@@ -46,7 +46,7 @@ Before running the project, ensure you have:
 
 1. **Clone the repository**
 [CMD]
-- git clone https://github.com/<your-username>/db_finalproject
+- git clone https://github.com/grey-hat-piper/db_finalproject.git
 - cd db_finalproject
 
 2. **restore the easybuy database from the backup file**
