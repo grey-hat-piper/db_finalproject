@@ -29,7 +29,7 @@ Main tables in this project:
 - `Cart`
 
 ER Diagram:
-![ER Diagram](Easybuy.drawio.png)
+![ER Diagram](Easebuy.png)
 
 ---
 
