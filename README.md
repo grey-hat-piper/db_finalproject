@@ -1,5 +1,5 @@
 # db_finalproject
-E-commerce database design PLP final_project(Question 1)
+E-commerce database design
 # 🛒 Easy-buy E-commerce Database
 
 ## 📌 Project Overview
@@ -29,7 +29,7 @@ Main tables in this project:
 - `Cart`
 
 ER Diagram:
-![ER Diagram](Easybuy.drawio)
+![ER Diagram](Easybuy.drawio.png)
 
 ---
 
